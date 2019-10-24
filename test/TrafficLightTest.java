@@ -8,7 +8,11 @@ public class TrafficLightTest {
     TrafficLight SUT;
 
     /**
+<<<<<<< HEAD
      * Dit is de comment
+=======
+     * dit is de comment
+>>>>>>> 9172fdd997e7b3355c319784f8fba5c039f51658
      */
     @Before
     public void setup() {
