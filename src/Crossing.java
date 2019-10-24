@@ -13,13 +13,10 @@ public class Crossing {
         TrafficController controller =
                 new TrafficController();
     }
-
     /**
      * @return
      */
-
     public static int getNumberOfTrafficLights() {return numberOfTrafficLights; }
-
     /**
      * @return
      */
