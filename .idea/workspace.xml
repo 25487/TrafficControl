@@ -23,7 +23,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,6 +63,7 @@
       <updated>1571942550505</updated>
       <workItem from="1571942553766" duration="164000" />
       <workItem from="1571942770948" duration="2360000" />
+      <workItem from="1571948917880" duration="582000" />
     </task>
     <servers />
   </component>
