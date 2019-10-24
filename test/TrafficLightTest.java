@@ -7,6 +7,9 @@ public class TrafficLightTest {
 
     TrafficLight SUT;
 
+    /**
+     * Dit is de comment
+     */
     @Before
     public void setup() {
         SUT = new TrafficLight();
