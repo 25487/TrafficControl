@@ -37,6 +37,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Crossing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crossing" />
+      <module name="TrafficControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Crossing" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571942550505</updated>
       <workItem from="1571942553766" duration="164000" />
-      <workItem from="1571942770948" duration="1166000" />
+      <workItem from="1571942770948" duration="1767000" />
     </task>
     <servers />
   </component>
